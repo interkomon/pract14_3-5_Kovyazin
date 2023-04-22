@@ -1,0 +1,21 @@
+D:\pract14(3-5)\pract14(3-5)\bin\Debug\pract14(3-5).exe.config
+D:\pract14(3-5)\pract14(3-5)\bin\Debug\pract14(3-5).exe
+D:\pract14(3-5)\pract14(3-5)\bin\Debug\pract14(3-5).pdb
+D:\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).csproj.AssemblyReference.cache
+D:\pract14(3-5)\pract14(3-5)\obj\Debug\pract14_3_5_.Form1.resources
+D:\pract14(3-5)\pract14(3-5)\obj\Debug\pract14_3_5_.Properties.Resources.resources
+D:\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).csproj.GenerateResource.cache
+D:\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).csproj.CoreCompileInputs.cache
+D:\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).exe
+D:\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).pdb
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\bin\Debug\pract14(3-5).exe.config
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\bin\Debug\pract14(3-5).exe
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\bin\Debug\pract14(3-5).pdb
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).csproj.AssemblyReference.cache
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).csproj.SuggestedBindingRedirects.cache
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\obj\Debug\pract14_3_5_.Form1.resources
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\obj\Debug\pract14_3_5_.Properties.Resources.resources
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).csproj.GenerateResource.cache
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).csproj.CoreCompileInputs.cache
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).exe
+E:\Основы Алготмизации\pract14(3-5)\pract14(3-5)\obj\Debug\pract14(3-5).pdb
